@@ -21,9 +21,6 @@ This is my personal portfolio website built using React and Tailwind CSS. It hig
 - Contact info and social links
 - Space reserved for profile photo
 
-## 🚀 Live Demo
-[https://your-username.vercel.app](https://your-username.vercel.app)
-
 ## 📬 Contact
 Feel free to connect with me at:  
 📧 kokkularishivardhan@gmail.com  
