@@ -19,7 +19,6 @@ This is my personal portfolio website built using React and Tailwind CSS. It hig
 - Detailed project showcase
 - Certifications section
 - Contact info and social links
-- Space reserved for profile photo
 
 ## 📬 Contact
 Feel free to connect with me at:  
