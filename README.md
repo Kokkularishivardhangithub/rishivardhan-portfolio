@@ -10,7 +10,6 @@ This is my personal portfolio website built using React and Tailwind CSS. It hig
 - HTML5 & CSS3
 - JavaScript
 - Git & GitHub
-- Deployed on Vercel
 
 ## 📌 Features
 - Dark theme design with clean layout
